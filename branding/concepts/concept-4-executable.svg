@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 120" style="color:#0F172A">
+  <!-- Executable wordmark: the site as a script being run -->
+  <text x="20" y="74" font-family="ui-monospace,'JetBrains Mono','Fira Code',monospace" font-size="42" font-weight="500"><tspan fill="#94A3B8">$ ./</tspan><tspan fill="currentColor">toolAssisted</tspan><tspan font-weight="700" fill="#22C55E">.run</tspan></text>
+  <rect x="534" y="38" width="22" height="46" rx="3" fill="#22C55E" opacity="0.85"/>
+</svg>

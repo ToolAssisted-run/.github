@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ToolAssisted.run Logo Concepts</title>
+<style>
+  :root { --accent: #22C55E; }
+  * { box-sizing: border-box; margin: 0; }
+  body { font-family: 'Inter','Segoe UI',system-ui,sans-serif; background: #F1F5F9; color: #0F172A; padding: 40px 24px; max-width: 1000px; margin: 0 auto; }
+  h1 { font-size: 26px; margin-bottom: 6px; }
+  p.sub { color: #64748B; margin-bottom: 36px; }
+  section { margin-bottom: 44px; }
+  h2 { font-size: 18px; margin-bottom: 4px; }
+  p.why { color: #475569; font-size: 14px; margin-bottom: 12px; max-width: 70ch; }
+  .cards { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+  @media (max-width: 720px) { .cards { grid-template-columns: 1fr; } }
+  .card { border-radius: 12px; padding: 26px 20px; border: 1px solid #E2E8F0; }
+  .card.light { background: #FFFFFF; --ink: #0F172A; --muted: #94A3B8; }
+  .card.dark  { background: #0B1220; --ink: #F1F5F9; --muted: #64748B; border-color: #1E293B; }
+  .card svg { width: 100%; height: auto; display: block; }
+</style>
+</head>
+<body>
+<h1>ToolAssisted.run — Logo Concepts</h1>
+<p class="sub">Four directions: modern geometric marks and typography-led wordmarks. Ink adapts to background; the accent is a constant "verified green" — the color of a passing sync check.</p>
+
+<section>
+  <h2>Concept 1 — Frame Advance</h2>
+  <p class="why">The single most iconic TAS gesture: play one frame, exactly. Play triangle in accent green plus the advance bar. Icon works standalone as favicon/avatar.</p>
+  <div class="cards">
+    <div class="card light">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 120">
+        <path d="M 26 26 L 26 94 L 88 60 Z" fill="var(--accent)" stroke="var(--accent)" stroke-width="12" stroke-linejoin="round"/>
+        <rect x="104" y="22" width="13" height="76" rx="6.5" fill="var(--ink)"/>
+        <text x="140" y="76" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="44" font-weight="650" letter-spacing="-1" fill="var(--ink)">toolassisted<tspan font-family="ui-monospace,'JetBrains Mono','Fira Code',monospace" font-weight="600" fill="var(--accent)">.run</tspan></text>
+      </svg>
+    </div>
+    <div class="card dark">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 120">
+        <path d="M 26 26 L 26 94 L 88 60 Z" fill="var(--accent)" stroke="var(--accent)" stroke-width="12" stroke-linejoin="round"/>
+        <rect x="104" y="22" width="13" height="76" rx="6.5" fill="var(--ink)"/>
+        <text x="140" y="76" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="44" font-weight="650" letter-spacing="-1" fill="var(--ink)">toolassisted<tspan font-family="ui-monospace,'JetBrains Mono','Fira Code',monospace" font-weight="600" fill="var(--accent)">.run</tspan></text>
+      </svg>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>Concept 2 — Play-Dot</h2>
+  <p class="why">Pure wordmark: the "." of the domain hack becomes a play button. The name is the logo; nothing else needed. All-monospace for engineering precision.</p>
+  <div class="cards">
+    <div class="card light">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 120">
+        <text x="20" y="82" font-family="ui-monospace,'JetBrains Mono','Fira Code',monospace" font-size="48" font-weight="500" fill="var(--ink)">toolassisted</text>
+        <path d="M 376 52 L 376 82 L 403 67 Z" fill="var(--accent)" stroke="var(--accent)" stroke-width="6" stroke-linejoin="round"/>
+        <text x="414" y="82" font-family="ui-monospace,'JetBrains Mono','Fira Code',monospace" font-size="48" font-weight="700" fill="var(--accent)">run</text>
+      </svg>
+    </div>
+    <div class="card dark">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 120">
+        <text x="20" y="82" font-family="ui-monospace,'JetBrains Mono','Fira Code',monospace" font-size="48" font-weight="500" fill="var(--ink)">toolassisted</text>
+        <path d="M 376 52 L 376 82 L 403 67 Z" fill="var(--accent)" stroke="var(--accent)" stroke-width="6" stroke-linejoin="round"/>
+        <text x="414" y="82" font-family="ui-monospace,'JetBrains Mono','Fira Code',monospace" font-size="48" font-weight="700" fill="var(--accent)">run</text>
+      </svg>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>Concept 3 — Input Timeline</h2>
+  <p class="why">A TAStudio-style piano roll: pressed inputs behind a green playhead, future frames ahead of it. The most literal "this is how TAS is made" mark; richest at larger sizes.</p>
+  <div class="cards">
+    <div class="card light">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 120">
+        <g fill="var(--ink)">
+          <rect x="41" y="20" width="16" height="16" rx="4"/><rect x="20" y="41" width="16" height="16" rx="4"/><rect x="62" y="41" width="16" height="16" rx="4"/><rect x="41" y="62" width="16" height="16" rx="4"/><rect x="83" y="62" width="16" height="16" rx="4"/><rect x="62" y="83" width="16" height="16" rx="4"/>
+          <g opacity="0.16"><rect x="20" y="20" width="16" height="16" rx="4"/><rect x="62" y="20" width="16" height="16" rx="4"/><rect x="83" y="20" width="16" height="16" rx="4"/><rect x="41" y="41" width="16" height="16" rx="4"/><rect x="83" y="41" width="16" height="16" rx="4"/><rect x="20" y="62" width="16" height="16" rx="4"/><rect x="62" y="62" width="16" height="16" rx="4"/><rect x="20" y="83" width="16" height="16" rx="4"/><rect x="41" y="83" width="16" height="16" rx="4"/><rect x="83" y="83" width="16" height="16" rx="4"/></g>
+          <g opacity="0.28"><rect x="118" y="20" width="16" height="16" rx="4"/><rect x="139" y="41" width="16" height="16" rx="4"/><rect x="118" y="62" width="16" height="16" rx="4"/><rect x="139" y="83" width="16" height="16" rx="4"/></g>
+          <g opacity="0.1"><rect x="139" y="20" width="16" height="16" rx="4"/><rect x="118" y="41" width="16" height="16" rx="4"/><rect x="139" y="62" width="16" height="16" rx="4"/><rect x="118" y="83" width="16" height="16" rx="4"/></g>
+        </g>
+        <rect x="105" y="14" width="6" height="91" rx="3" fill="var(--accent)"/>
+        <text x="186" y="75" font-family="ui-monospace,'JetBrains Mono','Fira Code',monospace" font-size="42" font-weight="500" fill="var(--ink)">toolassisted<tspan font-weight="700" fill="var(--accent)">.run</tspan></text>
+      </svg>
+    </div>
+    <div class="card dark">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 120">
+        <g fill="var(--ink)">
+          <rect x="41" y="20" width="16" height="16" rx="4"/><rect x="20" y="41" width="16" height="16" rx="4"/><rect x="62" y="41" width="16" height="16" rx="4"/><rect x="41" y="62" width="16" height="16" rx="4"/><rect x="83" y="62" width="16" height="16" rx="4"/><rect x="62" y="83" width="16" height="16" rx="4"/>
+          <g opacity="0.16"><rect x="20" y="20" width="16" height="16" rx="4"/><rect x="62" y="20" width="16" height="16" rx="4"/><rect x="83" y="20" width="16" height="16" rx="4"/><rect x="41" y="41" width="16" height="16" rx="4"/><rect x="83" y="41" width="16" height="16" rx="4"/><rect x="20" y="62" width="16" height="16" rx="4"/><rect x="62" y="62" width="16" height="16" rx="4"/><rect x="20" y="83" width="16" height="16" rx="4"/><rect x="41" y="83" width="16" height="16" rx="4"/><rect x="83" y="83" width="16" height="16" rx="4"/></g>
+          <g opacity="0.28"><rect x="118" y="20" width="16" height="16" rx="4"/><rect x="139" y="41" width="16" height="16" rx="4"/><rect x="118" y="62" width="16" height="16" rx="4"/><rect x="139" y="83" width="16" height="16" rx="4"/></g>
+          <g opacity="0.1"><rect x="139" y="20" width="16" height="16" rx="4"/><rect x="118" y="41" width="16" height="16" rx="4"/><rect x="139" y="62" width="16" height="16" rx="4"/><rect x="118" y="83" width="16" height="16" rx="4"/></g>
+        </g>
+        <rect x="105" y="14" width="6" height="91" rx="3" fill="var(--accent)"/>
+        <text x="186" y="75" font-family="ui-monospace,'JetBrains Mono','Fira Code',monospace" font-size="42" font-weight="500" fill="var(--ink)">toolassisted<tspan font-weight="700" fill="var(--accent)">.run</tspan></text>
+      </svg>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>Concept 4 — Executable</h2>
+  <p class="why">The domain hack taken literally: the site is a script you execute. Speaks directly to the automated-pipeline identity. The cursor doubles as a live/active signal.</p>
+  <div class="cards">
+    <div class="card light">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 120">
+        <text x="20" y="74" font-family="ui-monospace,'JetBrains Mono','Fira Code',monospace" font-size="42" font-weight="500"><tspan fill="var(--muted)">$ ./</tspan><tspan fill="var(--ink)">toolassisted</tspan><tspan font-weight="700" fill="var(--accent)">.run</tspan></text>
+        <rect x="534" y="38" width="22" height="46" rx="3" fill="var(--accent)" opacity="0.85"/>
+      </svg>
+    </div>
+    <div class="card dark">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 120">
+        <text x="20" y="74" font-family="ui-monospace,'JetBrains Mono','Fira Code',monospace" font-size="42" font-weight="500"><tspan fill="var(--muted)">$ ./</tspan><tspan fill="var(--ink)">toolassisted</tspan><tspan font-weight="700" fill="var(--accent)">.run</tspan></text>
+        <rect x="534" y="38" width="22" height="46" rx="3" fill="var(--accent)" opacity="0.85"/>
+      </svg>
+    </div>
+  </div>
+</section>
+
+</body>
+</html>

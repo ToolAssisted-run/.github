@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 120" style="color:#0F172A">
+  <!-- Pure wordmark: the dot in ".run" is a play button -->
+  <text x="20" y="82" font-family="ui-monospace,'JetBrains Mono','Fira Code',monospace" font-size="48" font-weight="500" fill="currentColor">toolAssisted</text>
+  <path d="M 380 52 L 380 82 L 407 67 Z" fill="#22C55E" stroke="#22C55E" stroke-width="6" stroke-linejoin="round"/>
+  <text x="420" y="82" font-family="ui-monospace,'JetBrains Mono','Fira Code',monospace" font-size="48" font-weight="700" fill="#22C55E">run</text>
+</svg>
