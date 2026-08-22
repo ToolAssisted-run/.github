@@ -145,29 +145,43 @@ This is a labor of love, not a business. No ads, no paywalls, no premium tiers, 
 
 **2.5.8** Experts hold no authority over identity. Who a member is, is assessed by the Steering Committee alone (3.8): expertise is authority over games, and being trusted about games is not being trusted about people.
 
-### 2.6 The Community
+### 2.6 Editors
 
-**2.6.1** Any member may appeal a moderation decision; the Committee decides appeals.
+**2.6.1** Editors are the keepers of the archive as a library: its games, game groups and systems.
 
-**2.6.2** The community may propose initiatives to change any way in which the site operates, to remove anybody from the role defined above, or to modify this document.
+**2.6.2** Any single Committee member may designate an Editor.
 
-**2.6.3** An initiative voted postively by at least 10% of the published authors and contributor base must be evaluated and voted for by the steering committee.
+**2.6.3** An Editor may be removed by the Committee by simple majority vote.
 
-**2.6.4** An initiative voted positively by more than 50% of the published authors and contributor base is binding and cannot be vetoed.
+**2.6.4** Editors create and administer games, groups and systems: they move, rename, re-describe, re-thumbnail and otherwise arrange them, and do everything that improves the maintenance and improvement of the archive as a proper library of tool-assisted runs.
 
-**2.6.4** The archive is open data and the site is open source, so the community holds the ultimate veto that no document can grant or remove: everything here can be forked.
+**2.6.5** Editors hold no authority over individual runs: they neither modify a run's information nor invalidate verifications or reproductions. That authority is the Experts' (2.5).
 
-### 2.7 What nobody may do
+**2.6.6** An Editor's authority covers the entire site; unlike an Expert's, it is never restricted to a scope.
 
-**2.7.1** No role (Founder, Committee, Moderator, or Expert) may rank or unrank a run by decree.
+### 2.7 The Community
 
-**2.7.2** Nobody may alter the archive's history or erase a contribution. The one erasure this organization performs is the one 3.1 describes, at the unanimous request of a work's authors, and it is performed as a service to them rather than as an act of moderation.
+**2.7.1** Any member may appeal a moderation decision; the Committee decides appeals.
 
-**2.7.3** Nobody may moderate outside the public log.
+**2.7.2** The community may propose initiatives to change any way in which the site operates, to remove anybody from the role defined above, or to modify this document.
 
-**2.7.4** A run's status is derived from the community's recorded acts, always.
+**2.7.3** An initiative voted postively by at least 10% of the published authors and contributor base must be evaluated and voted for by the steering committee.
 
-**2.7.5** If a decision wasn't made in the open, it wasn't made.
+**2.7.4** An initiative voted positively by more than 50% of the published authors and contributor base is binding and cannot be vetoed.
+
+**2.7.4** The archive is open data and the site is open source, so the community holds the ultimate veto that no document can grant or remove: everything here can be forked.
+
+### 2.8 What nobody may do
+
+**2.8.1** No role (Founder, Committee, Moderator, Editor, or Expert) may rank or unrank a run by decree.
+
+**2.8.2** Nobody may alter the archive's history or erase a contribution. The one erasure this organization performs is the one 3.1 describes, at the unanimous request of a work's authors, and it is performed as a service to them rather than as an act of moderation.
+
+**2.8.3** Nobody may moderate outside the public log.
+
+**2.8.4** A run's status is derived from the community's recorded acts, always.
+
+**2.8.5** If a decision wasn't made in the open, it wasn't made.
 
 ## 3. Terms of Use
 
