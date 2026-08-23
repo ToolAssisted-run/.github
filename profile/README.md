@@ -217,7 +217,7 @@ Many works are collaborative: several authors put their time into one movie. Sub
 
 **3.2.1** You are one of its authors, and you credit every co-author accurately (4.3). A work first published elsewhere is brought here only if its source licenses it for free redistribution, and its authors are credited as that license requires.
 
-**3.2.2** Anyone may copy and redistribute a work published under a CC license; that is what the license is for. Your co-authors may still expect to be asked before their work is republished, so ask every one of them before submitting. This archive does not verify their consent, and a co-author keeps the right to distribute the movie even if the others refuse; but submitting is how you take the responsibility for that agreement (4.7), and if you submit without asking, whatever follows is yours to answer for.
+**3.2.2** Anyone may copy and redistribute a work published under a CC license; that is what the license is for. Your co-authors may still expect to be asked before their work is republished, so asking every one of them first is strongly encouraged. It is not required: this archive does not demand or verify their consent, and a co-author keeps the right to distribute the movie even if the others refuse. But if you submit without asking, the consequences of that choice are yours alone.
 
 **3.2.3** Submitting without consent is understandable when you did most of the work and the other contributions were small touch-ups; when a co-author cannot be reached, for instance because they have not been seen online for a long time; or when a co-author refuses contact or does not answer, so consent cannot even be asked for.
 
