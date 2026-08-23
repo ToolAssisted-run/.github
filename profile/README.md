@@ -296,7 +296,7 @@ Switzerland. The site and the archive are hosted by GitHub in the United
 States. Email we send you passes through Infomaniak's mail servers in
 Switzerland. Nobody else processes anything for us.
 
-**5.11** toolAssisted.run is operated by its founder, eien86, together with
+**5.11** toolAssisted.run is operated by its founder together with
 the Steering Committee (§2). For anything in this policy, and for anything
 legal at all, the address is **contact@toolassisted.run**; it is open to
 everyone, member or not.
