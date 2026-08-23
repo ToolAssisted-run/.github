@@ -183,6 +183,46 @@ This is a labor of love, not a business. No ads, no paywalls, no premium tiers, 
 
 **2.8.5** If a decision wasn't made in the open, it wasn't made.
 
+### 2.9 Run submission policy
+
+A run is submitted under the following terms.
+
+**2.9.1** You submit a run only as one of its authors, in whatever capacity, or with the explicit authorization of its author(s) to submit it on their behalf.
+
+**2.9.2** A video encode is mandatory, given as a link to one of the accepted video hosting sites. We do not host videos.
+
+**2.9.3** The encode is a truthful and complete representation of the work, from the start to the end of the stated category or subcategory goal. A partial encode is not accepted. If the game has audio, the encode carries it, unaltered.
+
+**2.9.4** Stretches without gameplay at the start of the movie (a long boot-up, for instance) may be cut from the encode where that is warranted, provided nothing that is part of the stated goal is removed.
+
+**2.9.5** Additions to the encode are acceptable insofar as they improve the viewer's experience: RAM value indicators, counters, statistics, voice-over commentary, an on-screen camera. No addition may distort or alter the game's output in a way that obscures or falsifies its execution or completion, or leaves the run unverifiable.
+
+**2.9.6** The encode contains no illegal, copyrighted or otherwise rule-violating content, in whole or in part.
+
+**2.9.7** You disclose every content warning that applies to the run: mature or violent content, adult content, photosensitivity, strong language. Any other warning that applies goes in the submission notes.
+
+**2.9.8** You upload no game files (ROMs, disc images and the like) or other protected material as supplementary files (3.4). You may give their names and hashes to help reproduction.
+
+**2.9.9** A movie file, if provided, must not encode or produce copyrighted material as a result of its input execution.
+
+**2.9.10** You may upload any non-copyrighted files that help reproduce, verify or understand the run; this is optional.
+
+### 2.10 Multiple author submission policy
+
+Many works are collaborative: several authors put their time into one movie. Submitting or importing such a work here means the following.
+
+**2.10.1** You are one of its authors, and you credit every co-author accurately (3.3). A work first published elsewhere is brought here only if its source licenses it for free redistribution, and its authors are credited as that license requires.
+
+**2.10.2** Anyone may copy and redistribute a work published under a CC license; that is what the license is for. Your co-authors may still expect to be asked before their work is republished, so ask every one of them before submitting. This archive does not verify their consent, and a co-author keeps the right to distribute the movie even if the others refuse; but submitting is how you take the responsibility for that agreement (3.7), and if you submit without asking, whatever follows is yours to answer for.
+
+**2.10.3** Submitting without consent is understandable when you did most of the work and the other contributions were small touch-ups; when a co-author cannot be reached, for instance because they have not been seen online for a long time; or when a co-author refuses contact or does not answer, so consent cannot even be asked for.
+
+**2.10.4** Think twice before submitting without consent when you and your co-authors contributed roughly equally, or when you are a minor contributor and most of the work is someone else's.
+
+**2.10.5** Never submitted, collaborative or not: a work redistributed from a copyrighted, licensed or otherwise not freely redistributable source; a work that contains or encodes copyrighted material (inputs that reproduce a protected work of art, for instance); a work that contains or encodes illegal or pornographic material; a work that breaks this archive's rules.
+
+**2.10.6** If a co-author objects after the fact, any author may have their own name removed from the credits (3.9), and every author together may have the work erased (3.1).
+
 ## 3. Terms of Use
 
 **3.1** Every archived work stays archived. Better runs supersede it; nothing is erased by us. A work is erased only when **every** author credited on it asks for that, and then it is erased permanently and irrevocably: the movie, the notes, the thumbnail and the record all go, and we do not keep a copy.
