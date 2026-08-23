@@ -15,7 +15,7 @@
 
 Tool-assisted speedrunning (TAS) is the *art* of playing games beyond human limits. This art combines innovation, creativity, ingenuity, and skills to exploit games in astonishing ways. This organization is dedicated to the advancement, production, and archival of TAS works.
 
-Every provision below carries a number, so any part of this document can be cited exactly: section 1 states what this community believes, section 2 how it governs itself, section 3 what a submission must be, section 4 the terms of using the site, section 5 how we treat each other. A citation looks like **§ 2.3.4**.
+Every provision below carries a number, so any part of this document can be cited exactly: section 1 states what this community believes, section 2 how it governs itself, section 3 what a submission must be, section 4 the terms of using the site, section 5 how we treat each other, section 6 what we keep about you. A citation looks like **§ 2.3.4**.
 
 ## 1. Community Principles
 
@@ -165,11 +165,11 @@ This is a labor of love, not a business. No ads, no paywalls, no premium tiers, 
 
 **2.7.2** The community may propose initiatives to change any way in which the site operates, to remove anybody from the role defined above, or to modify this document.
 
-**2.7.3** An initiative voted postively by at least 10% of the published authors and contributor base must be evaluated and voted for by the steering committee.
+**2.7.3** An initiative voted positively by at least 10% of the published authors and contributor base must be evaluated and voted for by the steering committee.
 
 **2.7.4** An initiative voted positively by more than 50% of the published authors and contributor base is binding and cannot be vetoed.
 
-**2.7.4** The archive is open data and the site is open source, so the community holds the ultimate veto that no document can grant or remove: everything here can be forked.
+**2.7.5** The archive is open data and the site is open source, so the community holds the ultimate veto that no document can grant or remove: everything here can be forked.
 
 ### 2.8 What nobody may do
 
@@ -233,7 +233,7 @@ Many works are collaborative: several authors put their time into one movie. Sub
 
 **4.1.1** Things that were never works — spam, tests, uploads that are not tool-assisted runs, records created by mistake — are deleted by Experts, with the reason logged publicly and permanently. 4.1 protects works.
 
-**4.2** You keep authorship of what you submit, and you grant this archive the right to distribute it under **CC BY 5.0**. Works imported from TASVideos keep their original CC BY 2.0 terms.
+**4.2** You keep authorship of what you submit, and you grant this archive the right to distribute it under **CC BY 4.0**. Works imported from TASVideos keep their original CC BY 2.0 terms.
 
 **4.3** Honest attribution of every human author is the one hard rule. Disclosing the tools you used to create the work is required for reproduction, disclosing the use of any other tools (e.g., bots, AI) is optional. 
 
@@ -243,7 +243,7 @@ Many works are collaborative: several authors put their time into one movie. Sub
 
 **4.6** The archive is open data and the site is open source: anyone may clone, verify and fork everything here.
 
-**4.7** A work already published elsewhere may be imported here by its author, who chooses which of their works come over: nothing is imported unchosen. A **collaborative** work still needs the agreement of **every** author credited on it, and choosing to import one is how an author takes the **responsibility** for that agreement: they are saying their co-authors are fine with it being here, and they answer for it if that was not true. The work credits every author, records who imported it, and stays subject to the same remedies as everything else: an author may take their name off it (4.9), and every author together may have it erased (4.1).
+**4.7** A work already published elsewhere may be imported here by its author, who chooses which of their works come over: nothing is imported unchosen. A **collaborative** work is imported under the multiple author submission policy (3.2): asking every co-author first is strongly encouraged, never demanded or verified, and the one who imports it answers alone for importing without it. The work credits every author, records who imported it, and stays subject to the same remedies as everything else: an author may take their name off it (4.9), and every author together may have it erased (4.1).
 
 **4.8** An identity is claimed by asking, and the **Steering Committee alone** assesses it: a Committee member states on the record that the member is the author whose name is held, saying how they verified it, and no other role may hand a held name to anybody. The assessment is public, names who made it, and may be challenged and undone. It is the one place this archive accepts a judgement in place of a proof, and it exists because proof cannot be demanded from somebody whose account at another site is inactive, restricted or banned. A ban, a restriction or years of inactivity at another site never blocks a claim and never follows anybody here: the works stay archived, the name stays held, and the person is welcome (1.4, 1.5).
 
@@ -320,7 +320,7 @@ archive is a git repository that anybody may clone, and many have. If you ask
 us to delete your account, we delete the account, the email address and the
 personal data behind it, and the archived work stays under the name it was
 credited to. Two rights go further than that, and they are yours: you may have
-your own name taken off a work's credits (4.8), and a work is erased outright
+your own name taken off a work's credits (4.9), and a work is erased outright
 when every author credited on it asks for that (4.1). What we cannot do is
 reach into the copies other people already cloned, which is the honest limit of
 any erasure from a public repository.
