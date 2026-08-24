@@ -93,7 +93,7 @@ This is a labor of love, not a business. No ads, no paywalls, no premium tiers, 
 
 **2.3.4** Overriding a Founder veto requires a hard majority.
 
-**2.3.5** Removing a member from any role requires a hard majority.
+**2.3.5** Removing a Steering Committee member from their seat requires a hard majority; every other role is removed by a simple majority (the Founder is 2.3.12's own process).
 
 **2.3.6** Amending this document requires a hard majority, and only after a 14-day public comment period.
 
@@ -175,7 +175,7 @@ This is a labor of love, not a business. No ads, no paywalls, no premium tiers, 
 
 **2.8.1** No role (Founder, Committee, Moderator, Editor, or Expert) may rank or unrank a run by decree.
 
-**2.8.2** Nobody may alter the archive's history or erase a contribution. The one erasure this organization performs is the one 4.1 describes, at the unanimous request of a work's authors, and it is performed as a service to them rather than as an act of moderation.
+**2.8.2** Nobody may alter the archive's history or erase a contribution. For work that follows the rules, the one erasure this organization performs is the one 4.1 describes, at the unanimous request of a work's authors, and it is performed as a service to them rather than as an act of moderation; what never followed them is removed on the record (4.1.1, 4.10).
 
 **2.8.3** Nobody may moderate outside the public log.
 
@@ -191,7 +191,7 @@ What a run must be to be archived here, and what submitting a collaborative one 
 
 A run is submitted under the following terms.
 
-**3.1.1** You submit a run only as one of its authors, in whatever capacity, or with the explicit authorization of its author(s) to submit it on their behalf.
+**3.1.1** You submit a run only as one of its authors, in whatever capacity.
 
 **3.1.2** A video encode is mandatory, given as a link to one of the accepted video hosting sites. We do not host videos.
 
@@ -207,7 +207,7 @@ A run is submitted under the following terms.
 
 **3.1.8** You upload no game files (ROMs, disc images and the like) or other protected material as supplementary files (4.4). You may give their names and hashes to help reproduction.
 
-**3.1.9** A movie file, if provided, must not encode or produce copyrighted material as a result of its input execution.
+**3.1.9** A movie file, if provided, must not encode or produce copyrighted material beyond the game's own output as a result of its input execution (inputs that draw a protected work of art, for instance).
 
 **3.1.10** You may upload any non-copyrighted files that help reproduce, verify or understand the run; this is optional.
 
@@ -223,13 +223,13 @@ Many works are collaborative: several authors put their time into one movie. Sub
 
 **3.2.4** Think twice before submitting without consent when you and your co-authors contributed roughly equally, or when you are a minor contributor and most of the work is someone else's.
 
-**3.2.5** Never submitted, collaborative or not: a work redistributed from a copyrighted, licensed or otherwise not freely redistributable source; a work that contains or encodes copyrighted material (inputs that reproduce a protected work of art, for instance); a work that contains or encodes illegal or pornographic material; a work that breaks this archive's rules.
+**3.2.5** Never submitted, collaborative or not: a work redistributed from a copyrighted, licensed or otherwise not freely redistributable source; a work that contains or encodes copyrighted material beyond the game's own output (inputs that reproduce a protected work of art, for instance); a work that contains or encodes illegal or pornographic material; a work that breaks this archive's rules.
 
 **3.2.6** If a co-author objects after the fact, any author may have their own name removed from the credits (4.9), and every author together may have the work erased (4.1).
 
 ## 4. Terms of Use
 
-**4.1** Every archived work stays archived. Better runs supersede it; nothing is erased by us. A work is erased only when **every** author credited on it asks for that, and then it is erased permanently and irrevocably: the movie, the notes, the thumbnail and the record all go, and we do not keep a copy.
+**4.1** Every archived work stays archived. Better runs supersede it; nothing that follows the rules is erased by us. A work is erased only when **every** author credited on it asks for that, and then it is erased permanently and irrevocably: the movie, the notes, the thumbnail and the record all go, and we do not keep a copy.
 
 **4.1.1** Things that were never works — spam, tests, uploads that are not tool-assisted runs, records created by mistake — are deleted by Experts, with the reason logged publicly and permanently. 4.1 protects works.
 
@@ -276,8 +276,8 @@ things: a username you choose, an email address, and a password. We never ask
 for your real name, your age beyond confirming you are at least 13, your
 location, your phone number, or anything else.
 
-**6.3** Your password is never stored. What is stored is a bcrypt hash of it,
-which is a one way transformation: it cannot be turned back into your password
+**6.3** Your password is never stored. What is stored is a salted one-way
+hash of it (PBKDF2-SHA256, the forum software's own scheme): it cannot be turned back into your password
 by us or by anyone who obtained it. If you lose your password nobody can
 recover it for you; it can only be reset.
 
