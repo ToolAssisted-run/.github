@@ -215,7 +215,7 @@ A run is submitted under the following terms.
 
 Many works are collaborative: several authors put their time into one movie. Submitting or importing such a work here means the following.
 
-**3.2.1** You are one of its authors, and you credit every co-author accurately (4.3). A work first published elsewhere is brought here only if its source licenses it for free redistribution, and its authors are credited as that license requires.
+**3.2.1** You are one of its authors; nobody submits it on the authors' behalf (3.1.1). You credit every co-author accurately (4.3). A work first published elsewhere is brought here only if its source licenses it for free redistribution, and its authors are credited as that license requires.
 
 **3.2.2** Anyone may copy and redistribute a work published under a CC license; that is what the license is for. Your co-authors may still expect to be asked before their work is republished, so asking every one of them first is strongly encouraged. It is not required: this archive does not demand or verify their consent, and a co-author keeps the right to distribute the movie even if the others refuse. But if you submit without asking, the consequences of that choice are yours alone.
 
@@ -225,7 +225,7 @@ Many works are collaborative: several authors put their time into one movie. Sub
 
 **3.2.5** Never submitted, collaborative or not: a work redistributed from a copyrighted, licensed or otherwise not freely redistributable source; a work that contains or encodes copyrighted material beyond the game's own output (inputs that reproduce a protected work of art, for instance); a work that contains or encodes illegal or pornographic material; a work that breaks this archive's rules.
 
-**3.2.6** If a co-author objects after the fact, any author may have their own name removed from the credits (4.9), and every author together may have the work erased (4.1).
+**3.2.6** If a co-author objects after the fact, any author may have their own name removed from the credits (4.9), and every author together may have the work erased (4.1): a work that follows the rules is erased no other way.
 
 ## 4. Terms of Use
 
