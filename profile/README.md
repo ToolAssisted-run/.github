@@ -235,7 +235,7 @@ Many works are collaborative: several authors put their time into one movie. Sub
 
 **4.2** You keep authorship of what you submit, and you grant this archive the right to distribute it under **CC BY 4.0**. Works imported from TASVideos keep their original CC BY 2.0 terms.
 
-**4.3** Honest attribution of every human author is the one hard rule. Disclosing the tools you used to create the work is required for reproduction, disclosing the use of any other tools (e.g., bots, AI) is optional. 
+**4.3** Honest attribution of every human author is the one hard rule. Naming the tool that plays your movie back is required only for reproduction: a run is archived and verified without it, but nobody can confirm a movie syncs without knowing what to run it in. Disclosing anything beyond that (methods, bots, AI) is a badge, never an obligation (1.9). 
 
 **4.4** Never upload ROMs or any other copyrighted game data.
 
