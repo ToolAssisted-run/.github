@@ -185,7 +185,7 @@ This is a labor of love, not a business. No ads, no paywalls, no premium tiers, 
 
 ## 3. Submission Policy
 
-What a run must be to be archived here, and what submitting a collaborative one means.
+What a run must be to be archived here, and what submitting a collaborative one means. Submitting a run is agreeing to this policy and to the Community Principles (1), and grants the CC BY 4.0 license the Terms describe (4.2).
 
 ### 3.1 Run submission policy
 
