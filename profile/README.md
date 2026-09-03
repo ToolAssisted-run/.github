@@ -13,7 +13,7 @@
 > community is invited to challenge, refine and add to it; changes made before
 > that date need no amendment procedure.
 
-Tool-assisted speedrunning (TAS) is the *art* of playing games beyond human limits. This art combines innovation, creativity, ingenuity, and skills to exploit games in astonishing ways. This organization is dedicated to the advancement, production, and archival of TAS works.
+Tool-assisted speedrunning (TAS) is the *art* of playing games beyond human limits. This art combines innovation, creativity, ingenuity, and skills to exploit games in astonishing ways. This community is dedicated to the advancement, production, and archival of TAS works.
 
 ## 1. Community Principles
 
@@ -23,45 +23,49 @@ This section states the foundational principles of this community. They are perm
 
 This craft exists because its pioneers developed and embraced tools for us to enjoy games in a whole different way. This site promotes and encourages the use of new tools and technologies to advance our hobby.
 
-### 1.2 Machine-Driven Archival, Community-Driven Curation
+### 1.2 Immediate and Permanent Archival
 
-Works are archived the instant they are submitted; there is no centralized bureau deciding what is worthy. Reproducing and verifying works are open acts of the community, rewarded and open to anyone; merit is evaluated by the larger gaming community. Once a work is archived, it stays archived: better runs may supersede it, but no editorial opinion can erase it. The only hands that can are its authors' own: when every author of a work asks for it to be erased, it is erased, permanently and irrevocably.
+Works are archived the instant they are submitted; there is no centralized bureau deciding what is worthy. Once a work is archived, it stays archived: better runs may supersede it, but no editorial opinion can erase it. The only hands that can are its authors' own: when every author of a work asks for it to be erased, it is erased, permanently and irrevocably.
 
-### 1.3 Gaming only
+### 1.3 Community-Driven Curation
 
-The organization and all its channels are dedicated to the topic of TAS, speedrunning and gaming in general. No off-topic discussions, especially of controversial topics, shall be conducted here. Gaming is fun; politics is not.
+Reproducing and verifying works are open acts of the community, rewarded and open to anyone; merit is evaluated by the larger gaming community.
 
-### 1.4 Everybody is welcomed
+### 1.4 Gaming only
+
+The community and all its channels are dedicated to the topic of TAS, speedrunning and gaming in general. No off-topic discussions, especially of controversial topics, shall be conducted here. Gaming is fun; politics is not.
+
+### 1.5 Everybody is welcomed
 
 We welcome everybody interested in this hobby. We do not screen for personality, identity, or beliefs. Nobody is, nor is expected to be, perfect. Everybody is given the chance to prove themselves and to learn from past mistakes.
 
-### 1.5 We are not the internet's police
+### 1.6 We are not the internet's police
 
 What people do outside this site is outside our jurisdiction. We do not stalk anyone's social media, we do not join pile-ons, and we do not practice cancel culture. No one is suppressed here for non-criminal acts performed outside the site, whether today or in their past. Standing in this community is earned and lost by what you do here.
 
-### 1.6 Moderation in moderation
+### 1.7 Moderation in moderation
 
 Rules are few and enforced with restraint. Every moderation action is justified, temporary, redeemable, and logged in the open together with the rule it enforces. Nothing is punished automatically: a human decides, and every decision can be appealed. No one is ever sanctioned for what they think or believe.
 
-### 1.7 Act in good faith
+### 1.8 Act in good faith
 
-The goal of this organization is to increase the amount of joy in the world. Malicious acts will be suppressed and, where warranted, legally pursued. These include discrimination (against or in favor of any group), hatred, abuse, bullying, and intentional acts that hurt the sustainability, technical integrity, legal status, or reputation of the organization.
+The goal of this community is to increase the amount of joy in the world. Malicious acts will be suppressed and, where warranted, legally pursued. These include discrimination (against or in favor of any group), hatred, abuse, bullying, and intentional acts that hurt the sustainability, technical integrity, legal status, or reputation of the community.
 
-### 1.8 The organization belongs to everyone
+### 1.9 The community belongs to everyone
 
 Open source, open data, open verification. Anyone can clone the archive, re-run any movie, and rebuild the entire site. In addition, all code repositories should be public and offered with free licensing.
 
-### 1.9 Credit is sacred
+### 1.10 Credit is sacred
 
 Every contribution is honestly attributed to every human who shaped it. Disclosing your tools and methods is a badge, never a confession, and never an obligation. The one unforgivable act is claiming work that is not yours.
 
-### 1.10 Free forever
+### 1.11 Free forever
 
 This is a labor of love, not a business. No ads, no paywalls, no premium tiers, no data sold, no sponsorships steering content, and no commercial purpose of any kind. Everything here is free to use, free to copy, and free to build upon, and it will stay that way.
 
 ## 2. Governance
 
-*The principles in section 1 say what we believe. This says who decides what. It is written to guarantee, as far as any document can, that the community always steers this organization: power is granted openly, exercised in the open, and always answers to the people it serves.*
+*The principles in section 1 say what we believe. This says who decides what. It is written to guarantee, as far as any document can, that the community always steers itself: power is granted openly, exercised in the open, and always answers to the people it serves.*
 
 ### 2.1 Definitions
 
@@ -175,7 +179,7 @@ This is a labor of love, not a business. No ads, no paywalls, no premium tiers, 
 
 **2.8.1** No role (Founder, Committee, Moderator, Editor, or Expert) may rank or unrank a run by decree.
 
-**2.8.2** Nobody may alter the archive's history or erase a contribution. For work that follows the rules, the one erasure this organization performs is the one 4.1 describes, at the unanimous request of a work's authors, and it is performed as a service to them rather than as an act of moderation; what never followed them is removed on the record (4.1.1, 4.10).
+**2.8.2** Nobody may alter the archive's history or erase a contribution. For work that follows the rules, the one erasure this community performs is the one 4.1 describes, at the unanimous request of a work's authors, and it is performed as a service to them rather than as an act of moderation; what never followed them is removed on the record (4.1.1, 4.10).
 
 **2.8.3** Nobody may moderate outside the public log.
 
@@ -235,7 +239,7 @@ Many works are collaborative: several authors put their time into one movie. Sub
 
 **4.2** You keep authorship of what you submit, and you grant this archive the right to distribute it under **CC BY 4.0**. Works imported from TASVideos keep their original CC BY 2.0 terms.
 
-**4.3** Honest attribution of every human author is the one hard rule. Naming the tool that plays your movie back is required only for reproduction: a run is archived and verified without it, but nobody can confirm a movie syncs without knowing what to run it in. Disclosing anything beyond that (methods, bots, AI) is a badge, never an obligation (1.9). 
+**4.3** Honest attribution of every human author is the one hard rule. Naming the tool that plays your movie back is required only for reproduction: a run is archived and verified without it, but nobody can confirm a movie syncs without knowing what to run it in. Disclosing anything beyond that (methods, bots, AI) is a badge, never an obligation (1.10). 
 
 **4.4** Never upload ROMs or any other copyrighted game data.
 
@@ -245,7 +249,7 @@ Many works are collaborative: several authors put their time into one movie. Sub
 
 **4.7** A work already published elsewhere may be imported here by its author, who chooses which of their works come over: nothing is imported unchosen. A **collaborative** work is imported under the multiple author submission policy (3.2): asking every co-author first is strongly encouraged, never demanded or verified, and the one who imports it answers alone for importing without it. The work credits every author, records who imported it, and stays subject to the same remedies as everything else: an author may take their name off it (4.9), and every author together may have it erased (4.1).
 
-**4.8** An identity is claimed by asking, and the **Steering Committee alone** assesses it: a Committee member states on the record that the member is the author whose name is held, saying how they verified it, and no other role may hand a held name to anybody. The assessment is public, names who made it, and may be challenged and undone. It is the one place this archive accepts a judgement in place of a proof, and it exists because proof cannot be demanded from somebody whose account at another site is inactive, restricted or banned. A ban, a restriction or years of inactivity at another site never blocks a claim and never follows anybody here: the works stay archived, the name stays held, and the person is welcome (1.4, 1.5).
+**4.8** An identity is claimed by asking, and the **Steering Committee alone** assesses it: a Committee member states on the record that the member is the author whose name is held, saying how they verified it, and no other role may hand a held name to anybody. The assessment is public, names who made it, and may be challenged and undone. It is the one place this archive accepts a judgement in place of a proof, and it exists because proof cannot be demanded from somebody whose account at another site is inactive, restricted or banned. A ban, a restriction or years of inactivity at another site never blocks a claim and never follows anybody here: the works stay archived, the name stays held, and the person is welcome (1.5, 1.6).
 
 **4.9** An author may have their own name removed from the credits of a work they worked on, without giving a reason. The work stays, credited to the authors who remain. If they are the only author, the request is a request to erase the work, and 4.1 governs it.
 
