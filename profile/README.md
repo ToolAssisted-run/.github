@@ -95,7 +95,7 @@ This is a labor of love, not a business. No ads, no paywalls, no premium tiers, 
 
 **2.3.5** Removing a Steering Committee member from their seat requires a hard majority; every other role is removed by a simple majority (the Founder is 2.3.12's own process).
 
-**2.3.6** Amending this document requires a hard majority, and only after a 14-day public comment period.
+**2.3.6** Amending this document requires a hard majority, and only after a 14-day public comment period. Section 1 is outside this and every other procedure.
 
 **2.3.7** Committee votes are public and named.
 
