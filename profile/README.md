@@ -15,9 +15,9 @@
 
 Tool-assisted speedrunning (TAS) is the *art* of playing games beyond human limits. This art combines innovation, creativity, ingenuity, and skills to exploit games in astonishing ways. This organization is dedicated to the advancement, production, and archival of TAS works.
 
-Every provision below carries a number, so any part of this document can be cited exactly: section 1 states what this community believes, section 2 how it governs itself, section 3 what a submission must be, section 4 the terms of using the site, section 5 how we treat each other, section 6 what we keep about you. A citation looks like **§ 2.3.4**.
-
 ## 1. Community Principles
+
+This section states the foundational principles of this community. They are permanent: no mechanism, member, or group of members can amend, suspend or repeal them.
 
 ### 1.1 Innovation is first-class
 
@@ -25,7 +25,7 @@ This craft exists because its pioneers developed and embraced tools for us to en
 
 ### 1.2 Machine-Driven Archival, Community-Driven Curation
 
-Similar to arXiv.org, works are archived the instant they are submitted; there is no centralized bureau deciding what is worthy. Reproducing and verifying works are open acts of the community, rewarded and open to anyone; merit is evaluated by the larger gaming community. Once a work is archived, it stays archived: better runs may supersede it, but no editorial opinion can erase it. The only hands that can are its authors' own: when every author of a work asks for it to be erased, it is erased, permanently and irrevocably.
+Works are archived the instant they are submitted; there is no centralized bureau deciding what is worthy. Reproducing and verifying works are open acts of the community, rewarded and open to anyone; merit is evaluated by the larger gaming community. Once a work is archived, it stays archived: better runs may supersede it, but no editorial opinion can erase it. The only hands that can are its authors' own: when every author of a work asks for it to be erased, it is erased, permanently and irrevocably.
 
 ### 1.3 Gaming only
 
