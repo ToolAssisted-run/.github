@@ -10,14 +10,14 @@
 > **Work in progress.** This document, together with the governance rules,
 > terms of use and code of conduct below, is a living draft open to community
 > discussion. It takes full force on **1 January 2027**. Until then the
-> community is invited to challenge, refine and add to it; changes made before
+> community is invited to challenge, refine, and add to it; changes made before
 > that date need no amendment procedure.
 
 Tool-assisted speedrunning (TAS) is the *art* of playing games beyond human limits. This art combines innovation, creativity, ingenuity, and skills to exploit games in astonishing ways. This community is dedicated to the advancement, production, and archival of TAS works.
 
 ## 1. Community Principles
 
-This section states the foundational principles of this community. They are permanent: no mechanism, member, or group of members can amend, suspend or repeal them.
+This section states the foundational principles of this community. They are permanent: no mechanism, member, or group of members can amend, suspend, or repeal them.
 
 ### 1.1 Innovation is first-class
 
@@ -33,7 +33,7 @@ Reproducing and verifying works are open acts of the community, rewarded and ope
 
 ### 1.4 Gaming only
 
-The community and all its channels are dedicated to the topic of TAS, speedrunning and gaming in general. No off-topic discussions, especially of controversial topics, shall be conducted here. Gaming is fun; politics is not.
+The community and all its channels are dedicated to the topic of TAS, speedrunning, and gaming in general. No off-topic discussions, especially of controversial topics, shall be conducted here. Gaming is fun; politics is not.
 
 ### 1.5 Everybody is welcome
 
@@ -71,7 +71,7 @@ This is a labor of love, not a business. No ads, no paywalls, no premium tiers, 
 
 **2.1.1** A **simple majority** means more than half of the votes cast within a seven-day voting window. There is no quorum; absence counts as abstention.
 
-**2.1.2** A **hard majority** means at least two thirds (66%) of **all sitting Committee members**, not just those who voted.
+**2.1.2** A **hard majority** means at least two thirds of **all sitting Committee members**, not just those who voted.
 
 ### 2.2 The Founder
 
@@ -151,13 +151,13 @@ This is a labor of love, not a business. No ads, no paywalls, no premium tiers, 
 
 ### 2.6 Editors
 
-**2.6.1** Editors are the keepers of the archive as a library: its games, game groups and systems.
+**2.6.1** Editors are the keepers of the archive as a library: its games, game groups, and systems.
 
 **2.6.2** Any single Committee member may designate an Editor.
 
 **2.6.3** An Editor may be removed by the Committee by simple majority vote.
 
-**2.6.4** Editors create and administer games, groups and systems: they move, rename, re-describe, re-thumbnail and otherwise arrange them, and do everything else that keeps the archive a proper library of tool-assisted runs.
+**2.6.4** Editors create and administer games, groups, and systems: they move, rename, re-describe, re-thumbnail, and otherwise arrange them, and do everything else that keeps the archive a proper library of tool-assisted runs.
 
 **2.6.5** Editors hold no authority over individual runs: they neither modify a run's information nor invalidate verifications or reproductions. That authority is the Experts' (2.5).
 
@@ -205,15 +205,15 @@ A run is submitted under the following terms.
 
 **3.1.5** Additions to the encode are acceptable insofar as they improve the viewer's experience: RAM value indicators, counters, statistics, voice-over commentary, an on-screen camera. No addition may distort or alter the game's output in a way that obscures or falsifies its execution or completion, or leaves the run unverifiable.
 
-**3.1.6** The encode contains no illegal, copyrighted or otherwise rule-violating content, in whole or in part.
+**3.1.6** The encode contains no illegal, copyrighted, or otherwise rule-violating content, in whole or in part.
 
 **3.1.7** You disclose every content warning that applies to the run: mature or violent content, adult content, photosensitivity, strong language. Any other warning that applies goes in the submission notes.
 
-**3.1.8** You upload no game files (ROMs, disc images and the like) or other protected material as supplementary files (4.4). You may give their names and hashes to help reproduction.
+**3.1.8** You upload no game files (ROMs, disc images, and the like) or other protected material as supplementary files (4.4). You may give their names and hashes to help reproduction.
 
 **3.1.9** A movie file, if provided, must not encode or produce copyrighted material beyond the game's own output as a result of its input execution (inputs that draw a protected work of art, for instance).
 
-**3.1.10** You may upload any non-copyrighted files that help reproduce, verify or understand the run; this is optional.
+**3.1.10** You may upload any non-copyrighted files that help reproduce, verify, or understand the run; this is optional.
 
 ### 3.2 Multiple author submission policy
 
@@ -227,13 +227,13 @@ Many works are collaborative: several authors put their time into one movie. Sub
 
 **3.2.4** Think twice before submitting without consent when you and your co-authors contributed roughly equally, or when you are a minor contributor and most of the work is someone else's.
 
-**3.2.5** These are never submitted, collaborative or not: a work redistributed from a copyrighted, licensed or otherwise not freely redistributable source; a work that contains or encodes copyrighted material beyond the game's own output (inputs that reproduce a protected work of art, for instance); a work that contains or encodes illegal or pornographic material; a work that breaks this archive's rules.
+**3.2.5** These are never submitted, collaborative or not: a work redistributed from a copyrighted, licensed, or otherwise not freely redistributable source; a work that contains or encodes copyrighted material beyond the game's own output (inputs that reproduce a protected work of art, for instance); a work that contains or encodes illegal or pornographic material; a work that breaks this archive's rules.
 
 **3.2.6** If a co-author objects after the fact, any author may have their own name removed from the credits (4.9), and every author together may have the work erased (4.1): a work that follows the rules is erased no other way.
 
 ## 4. Terms of Use
 
-**4.1** Every archived work stays archived. Better runs supersede it; nothing that follows the rules is erased by us. A work is erased only when **every** author credited on it asks for that, and then it is erased permanently and irrevocably: the movie, the notes, the thumbnail and the record all go, and we do not keep a copy.
+**4.1** Every archived work stays archived. Better runs supersede it; nothing that follows the rules is erased by us. A work is erased only when **every** author credited on it asks for that, and then it is erased permanently and irrevocably: the movie, the notes, the thumbnail, and the record all go, and we do not keep a copy.
 
 **4.1.1** Things that were never works (spam, tests, uploads that are not tool-assisted runs, records created by mistake) are deleted by Experts, with the reason logged publicly and permanently. 4.1 protects works.
 
@@ -245,11 +245,11 @@ Many works are collaborative: several authors put their time into one movie. Sub
 
 **4.5** The minimum age to hold an account is 13, or the higher age your country's law sets for consenting to online services on your own.
 
-**4.6** The archive is open data and the site is open source: anyone may clone, verify and fork everything here.
+**4.6** The archive is open data and the site is open source: anyone may clone, verify, and fork everything here.
 
 **4.7** A work already published elsewhere may be imported here by its author, who chooses which of their works come over: nothing is imported unchosen. A **collaborative** work is imported under the multiple author submission policy (3.2): asking every co-author first is strongly encouraged, never demanded or verified, and the one who imports it answers alone for importing without it. The work credits every author, records who imported it, and stays subject to the same remedies as everything else: an author may take their name off it (4.9), and every author together may have it erased (4.1).
 
-**4.8** An identity is claimed by asking, and the **Steering Committee alone** assesses it: a Committee member states on the record that the member is the author whose name is held, saying how they verified it, and no other role may hand a held name to anybody. The assessment is public, names who made it, and may be challenged and undone. It is the one place this archive accepts a judgment in place of a proof, and it exists because proof cannot be demanded from somebody whose account at another site is inactive, restricted or banned. A ban, a restriction or years of inactivity at another site never blocks a claim and never follows anybody here: the works stay archived, the name stays held, and the person is welcome (1.5, 1.6).
+**4.8** An identity is claimed by asking, and the **Steering Committee alone** assesses it: a Committee member states on the record that the member is the author whose name is held, saying how they verified it, and no other role may hand a held name to anybody. The assessment is public, names who made it, and may be challenged and undone. It is the one place this archive accepts a judgment in place of a proof, and it exists because proof cannot be demanded from somebody whose account at another site is inactive, restricted, or banned. A ban, a restriction, or years of inactivity at another site never blocks a claim and never follows anybody here: the works stay archived, the name stays held, and the person is welcome (1.5, 1.6).
 
 **4.9** An author may have their own name removed from the credits of a work they worked on, without giving a reason. The work stays, credited to the authors who remain. If they are the only author, the request is a request to erase the work, and 4.1 governs it.
 
@@ -257,7 +257,7 @@ Many works are collaborative: several authors put their time into one movie. Sub
 
 ## 5. Code of Conduct
 
-**5.1** Be here for the games. Discussion stays about TAS, the works and the craft.
+**5.1** Be here for the games. Discussion stays about TAS, the works, and the craft.
 
 **5.2** Act in good faith, and assume it in others.
 
@@ -287,7 +287,7 @@ your password nobody can recover it for you; it can only be reset.
 
 **6.4** Your email address is used to confirm your account, to let you reset
 your password, and to send you the notifications you asked for. It is never
-shown on the site, never given, sold, rented, traded or lent to anybody, and
+shown on the site, never given, sold, rented, traded, or lent to anybody, and
 never used to advertise anything to you.
 
 **6.4.1** There is one exception, and it applies only to you, only while you ask
@@ -315,13 +315,13 @@ goes when the account does. None of it is ever used to build a picture of you.
 **6.7** The archive itself holds no personal data. It holds the username you
 chose and what you contributed: your runs, your reproductions, your
 verifications, your console verifications, your stars, your notes. No email
-address, no IP address and no account data ever enters it. Your browser
+address, no IP address, and no account data ever enters it. Your browser
 remembers your theme and your view preferences on your own device, and those
 never leave it.
 
 **6.8** Your contributions are public and permanent, by design and by 1.2. The
 archive is a git repository that anybody may clone, and many have. If you ask
-us to delete your account, we delete the account, the email address and the
+us to delete your account, we delete the account, the email address, and the
 personal data behind it, and the archived work stays under the name it was
 credited to. Two rights go further than that, and they are yours: you may have
 your own name taken off a work's credits (4.9), and a work is erased outright
@@ -334,9 +334,9 @@ means your browser talks to that somewhere else, which sees your IP address as
 any web server does. This is the honest list: the site and the archive files
 are served by GitHub; a run's video is embedded from the platform its author
 published it on (YouTube through its no-cookie domain, Niconico, Bilibili,
-Vimeo, Dailymotion or the Internet Archive); our own posts on the front page
+Vimeo, Dailymotion, or the Internet Archive); our own posts on the front page
 come from Bluesky; and an author's notes may embed images they host elsewhere.
-None of them receives your email address, your password or anything from your
+None of them receives your email address, your password, or anything from your
 account. Each is governed by its own privacy policy, not ours.
 
 **6.10** The forum and the archivist run on our own server in Geneva,
