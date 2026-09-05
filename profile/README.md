@@ -35,7 +35,7 @@ Reproducing and verifying works are open acts of the community, rewarded and ope
 
 The community and all its channels are dedicated to the topic of TAS, speedrunning and gaming in general. No off-topic discussions, especially of controversial topics, shall be conducted here. Gaming is fun; politics is not.
 
-### 1.5 Everybody is welcomed
+### 1.5 Everybody is welcome
 
 We welcome everybody interested in this hobby. We do not screen for personality, identity, or beliefs. Nobody is, nor is expected to be, perfect. Everybody is given the chance to prove themselves and to learn from past mistakes.
 
@@ -97,7 +97,7 @@ This is a labor of love, not a business. No ads, no paywalls, no premium tiers, 
 
 **2.3.4** Overriding a Founder veto requires a hard majority.
 
-**2.3.5** Removing a Steering Committee member from their seat requires a hard majority; every other role is removed by a simple majority (the Founder is 2.3.12's own process).
+**2.3.5** Removing a Steering Committee member from their seat requires a hard majority; every other role is removed by a simple majority (removing the Founder is 2.3.12's own process).
 
 **2.3.6** Amending this document requires a hard majority, and only after a 14-day public comment period. Section 1 is outside this and every other procedure.
 
@@ -157,7 +157,7 @@ This is a labor of love, not a business. No ads, no paywalls, no premium tiers, 
 
 **2.6.3** An Editor may be removed by the Committee by simple majority vote.
 
-**2.6.4** Editors create and administer games, groups and systems: they move, rename, re-describe, re-thumbnail and otherwise arrange them, and do everything that improves the maintenance and improvement of the archive as a proper library of tool-assisted runs.
+**2.6.4** Editors create and administer games, groups and systems: they move, rename, re-describe, re-thumbnail and otherwise arrange them, and do everything else that keeps the archive a proper library of tool-assisted runs.
 
 **2.6.5** Editors hold no authority over individual runs: they neither modify a run's information nor invalidate verifications or reproductions. That authority is the Experts' (2.5).
 
@@ -167,9 +167,9 @@ This is a labor of love, not a business. No ads, no paywalls, no premium tiers, 
 
 **2.7.1** Any member may appeal a moderation decision; the Committee decides appeals.
 
-**2.7.2** The community may propose initiatives to change any way in which the site operates, to remove anybody from the role defined above, or to modify this document.
+**2.7.2** The community may propose initiatives to change any way in which the site operates, to remove anybody from the roles defined above, or to modify this document.
 
-**2.7.3** An initiative voted positively by at least 10% of the published authors and contributor base must be evaluated and voted for by the steering committee.
+**2.7.3** An initiative voted positively by at least 10% of the published authors and contributor base must be evaluated and voted on by the Steering Committee.
 
 **2.7.4** An initiative voted positively by more than 50% of the published authors and contributor base is binding and cannot be vetoed.
 
@@ -189,7 +189,7 @@ This is a labor of love, not a business. No ads, no paywalls, no premium tiers, 
 
 ## 3. Submission Policy
 
-What a run must be to be archived here, and what submitting a collaborative one means. Submitting a run is agreeing to this policy and to the Community Principles (1), and grants the CC BY 4.0 license the Terms describe (4.2).
+What a run must be to be archived here, and what submitting a collaborative one means. Submitting a run means agreeing to this policy and to the Community Principles (1), and granting the CC BY 4.0 license the Terms describe (4.2).
 
 ### 3.1 Run submission policy
 
@@ -227,7 +227,7 @@ Many works are collaborative: several authors put their time into one movie. Sub
 
 **3.2.4** Think twice before submitting without consent when you and your co-authors contributed roughly equally, or when you are a minor contributor and most of the work is someone else's.
 
-**3.2.5** Never submitted, collaborative or not: a work redistributed from a copyrighted, licensed or otherwise not freely redistributable source; a work that contains or encodes copyrighted material beyond the game's own output (inputs that reproduce a protected work of art, for instance); a work that contains or encodes illegal or pornographic material; a work that breaks this archive's rules.
+**3.2.5** These are never submitted, collaborative or not: a work redistributed from a copyrighted, licensed or otherwise not freely redistributable source; a work that contains or encodes copyrighted material beyond the game's own output (inputs that reproduce a protected work of art, for instance); a work that contains or encodes illegal or pornographic material; a work that breaks this archive's rules.
 
 **3.2.6** If a co-author objects after the fact, any author may have their own name removed from the credits (4.9), and every author together may have the work erased (4.1): a work that follows the rules is erased no other way.
 
@@ -235,11 +235,11 @@ Many works are collaborative: several authors put their time into one movie. Sub
 
 **4.1** Every archived work stays archived. Better runs supersede it; nothing that follows the rules is erased by us. A work is erased only when **every** author credited on it asks for that, and then it is erased permanently and irrevocably: the movie, the notes, the thumbnail and the record all go, and we do not keep a copy.
 
-**4.1.1** Things that were never works — spam, tests, uploads that are not tool-assisted runs, records created by mistake — are deleted by Experts, with the reason logged publicly and permanently. 4.1 protects works.
+**4.1.1** Things that were never works (spam, tests, uploads that are not tool-assisted runs, records created by mistake) are deleted by Experts, with the reason logged publicly and permanently. 4.1 protects works.
 
 **4.2** You keep authorship of what you submit, and you grant this archive the right to distribute it under **CC BY 4.0**. Works imported from TASVideos keep their original CC BY 2.0 terms.
 
-**4.3** Honest attribution of every human author is the one hard rule. Naming the tool that plays your movie back is required only for reproduction: a run is archived and verified without it, but nobody can confirm a movie syncs without knowing what to run it in. Disclosing anything beyond that (methods, bots, AI) is a badge, never an obligation (1.10). 
+**4.3** Honest attribution of every human author is the one hard rule. Naming the tool that plays your movie back is required only for reproduction: a run is archived and verified without it, but nobody can confirm a movie syncs without knowing what to run it in. Disclosing anything beyond that (methods, bots, AI) is a badge, never an obligation (1.10).
 
 **4.4** Never upload ROMs or any other copyrighted game data.
 
@@ -249,11 +249,11 @@ Many works are collaborative: several authors put their time into one movie. Sub
 
 **4.7** A work already published elsewhere may be imported here by its author, who chooses which of their works come over: nothing is imported unchosen. A **collaborative** work is imported under the multiple author submission policy (3.2): asking every co-author first is strongly encouraged, never demanded or verified, and the one who imports it answers alone for importing without it. The work credits every author, records who imported it, and stays subject to the same remedies as everything else: an author may take their name off it (4.9), and every author together may have it erased (4.1).
 
-**4.8** An identity is claimed by asking, and the **Steering Committee alone** assesses it: a Committee member states on the record that the member is the author whose name is held, saying how they verified it, and no other role may hand a held name to anybody. The assessment is public, names who made it, and may be challenged and undone. It is the one place this archive accepts a judgement in place of a proof, and it exists because proof cannot be demanded from somebody whose account at another site is inactive, restricted or banned. A ban, a restriction or years of inactivity at another site never blocks a claim and never follows anybody here: the works stay archived, the name stays held, and the person is welcome (1.5, 1.6).
+**4.8** An identity is claimed by asking, and the **Steering Committee alone** assesses it: a Committee member states on the record that the member is the author whose name is held, saying how they verified it, and no other role may hand a held name to anybody. The assessment is public, names who made it, and may be challenged and undone. It is the one place this archive accepts a judgment in place of a proof, and it exists because proof cannot be demanded from somebody whose account at another site is inactive, restricted or banned. A ban, a restriction or years of inactivity at another site never blocks a claim and never follows anybody here: the works stay archived, the name stays held, and the person is welcome (1.5, 1.6).
 
 **4.9** An author may have their own name removed from the credits of a work they worked on, without giving a reason. The work stays, credited to the authors who remain. If they are the only author, the request is a request to erase the work, and 4.1 governs it.
 
-**4.10** Anyone — member or not — who believes something archived here infringes their rights may write to **contact@toolassisted.run** and say what, where, and on what grounds. A claim of infringement is answered by a person, promptly and on the record; content taken down for infringement is logged like any other moderation act.
+**4.10** Anyone, member or not, who believes something archived here infringes their rights may write to **contact@toolassisted.run** and say what, where, and on what grounds. A claim of infringement is answered by a person, promptly and on the record; content taken down for infringement is logged like any other moderation act.
 
 ## 5. Code of Conduct
 
@@ -281,9 +281,9 @@ for your real name, your age beyond confirming you are at least 13, your
 location, your phone number, or anything else.
 
 **6.3** Your password is never stored. What is stored is a salted one-way
-hash of it (PBKDF2-SHA256, the forum software's own scheme): it cannot be turned back into your password
-by us or by anyone who obtained it. If you lose your password nobody can
-recover it for you; it can only be reset.
+hash of it (PBKDF2-SHA256, the forum software's own scheme): it cannot be
+turned back into your password by us or by anyone who obtained it. If you lose
+your password nobody can recover it for you; it can only be reset.
 
 **6.4** Your email address is used to confirm your account, to let you reset
 your password, and to send you the notifications you asked for. It is never
@@ -333,7 +333,7 @@ any erasure from a public repository.
 means your browser talks to that somewhere else, which sees your IP address as
 any web server does. This is the honest list: the site and the archive files
 are served by GitHub; a run's video is embedded from the platform its author
-published it on (YouTube through its no cookie domain, Niconico, Bilibili,
+published it on (YouTube through its no-cookie domain, Niconico, Bilibili,
 Vimeo, Dailymotion or the Internet Archive); our own posts on the front page
 come from Bluesky; and an author's notes may embed images they host elsewhere.
 None of them receives your email address, your password or anything from your
@@ -344,7 +344,7 @@ Switzerland. The site and the archive are hosted by GitHub in the United
 States. Email we send you passes through Infomaniak's mail servers in
 Switzerland. Nobody else processes anything for us.
 
-**6.11** toolAssisted.run is operated by its founder together with
+**6.11** toolAssisted.run is operated by its Founder together with
 the Steering Committee (§2). For anything in this policy, and for anything
 legal at all, the address is **contact@toolassisted.run**; it is open to
 everyone, member or not.
@@ -352,11 +352,11 @@ everyone, member or not.
 **6.12** You may see what we hold about you, correct it, export it, or have it
 deleted. Two ways to ask, and neither needs a lawyer: write to
 **contact@toolassisted.run**, or send a private message to the administrators
-on the forum. If you hold an account, the
-second is quickest. If you do not hold an account and want to be uncredited, or
-credited differently, in work someone else submitted, the first reaches us all
-the same. We answer as people, not as a ticketing system, and we ask nothing of
-you beyond enough to know the request is really yours.
+on the forum. If you hold an account, the second is quickest. If you do not
+hold an account and want to be uncredited, or credited differently, in work
+someone else submitted, the first reaches us all the same. We answer as
+people, not as a ticketing system, and we ask nothing of you beyond enough to
+know the request is really yours.
 
 **6.13** If this policy ever changes, the change is a public commit in this
 repository with a date and an author, like everything else here. Nothing about
