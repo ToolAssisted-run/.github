@@ -7,12 +7,6 @@
 
 # Welcome to toolAssisted.run
 
-> **Work in progress.** This document, together with the governance rules,
-> terms of use and code of conduct below, is a living draft open to community
-> discussion. It takes full force on **1 January 2027**. Until then the
-> community is invited to challenge, refine, and add to it; changes made before
-> that date need no amendment procedure.
-
 Tool-assisted speedrunning (TAS) is the *art* of playing games beyond human limits. This art combines innovation, creativity, ingenuity, and skills to exploit games in astonishing ways. This community is dedicated to the advancement, production, and archival of TAS works.
 
 ## 1. Community Principles
