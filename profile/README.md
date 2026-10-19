@@ -143,19 +143,9 @@ This is a labor of love, not a business. No ads, no paywalls, no premium tiers, 
 
 **2.5.8** Experts hold no authority over identity. Who a member is, is assessed by the Steering Committee alone (4.8): expertise is authority over games, and being trusted about games is not being trusted about people.
 
-### 2.6 Editors
+### 2.6 Editors (retired)
 
-**2.6.1** Editors are the keepers of the archive as a library: its games, game groups, and systems.
-
-**2.6.2** Any single Committee member may designate an Editor.
-
-**2.6.3** An Editor may be removed by the Committee by simple majority vote.
-
-**2.6.4** Editors create and administer games, groups, and systems: they move, rename, re-describe, re-thumbnail, and otherwise arrange them, and do everything else that keeps the archive a proper library of tool-assisted runs.
-
-**2.6.5** Editors hold no authority over individual runs: they neither modify a run's information nor invalidate verifications or reproductions. That authority is the Experts' (2.5).
-
-**2.6.6** An Editor's authority covers the entire site; unlike an Expert's, it is never restricted to a scope.
+**2.6.1** The Editor role is retired. It was an unscoped keeper of the library's games, groups, and systems; a whole-site Expert (2.5) holds every power it carried, so the role duplicated part of one that exists. The members who held it continue as whole-site Experts, and the archive's role log keeps the record. The number stays so that older references resolve; clauses 2.6.2 to 2.6.6 are struck.
 
 ### 2.7 The Community
 
@@ -171,7 +161,7 @@ This is a labor of love, not a business. No ads, no paywalls, no premium tiers, 
 
 ### 2.8 What nobody may do
 
-**2.8.1** No role (Founder, Committee, Moderator, Editor, or Expert) may rank or unrank a run by decree.
+**2.8.1** No role (Founder, Committee, Moderator, or Expert) may rank or unrank a run by decree.
 
 **2.8.2** Nobody may alter the archive's history or erase a contribution. For work that follows the rules, the one erasure this community performs is the one 4.1 describes, at the unanimous request of a work's authors, and it is performed as a service to them rather than as an act of moderation; what never followed them is removed on the record (4.1.1, 4.10).
 
