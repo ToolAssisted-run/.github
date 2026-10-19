@@ -308,8 +308,9 @@ goes when the account does. None of it is ever used to build a picture of you.
 
 **6.7** The archive itself holds no personal data. It holds the username you
 chose and what you contributed: your runs, your reproductions, your
-verifications, your stars, your notes. No email address, no IP address, and
-no account data ever enters it. Your browser remembers your theme and your
+verifications, your stars, your comments (as a pointer to your forum post,
+never its text), your notes. No email address, no IP address, and no account
+data ever enters it. Your browser remembers your theme and your
 view preferences on your own device, and those never leave it.
 
 **6.8** Your contributions are public and permanent, by design and by 1.2. The
